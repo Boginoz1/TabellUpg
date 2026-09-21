@@ -1,0 +1,53 @@
+
+table {
+
+    border-collapse: collapse; 
+    font-family: Arial, sans-serif;
+    margin-bottom: 40px;
+}
+
+th, td {
+
+    border: 1px solid black; 
+ 
+    padding: 8px 12px; 
+}
+
+
+
+.align-right {
+    text-align: right;
+}
+
+
+.row-yellow {
+    background-color: #fff2cc;
+}
+
+
+.row-red {
+    background-color: #f4cccc;
+}
+
+
+
+.color-table {
+    width: 300px;
+    height: 250px;
+}
+
+
+.bg-blue   { background-color: #3a75c4; }
+.bg-red    { background-color: #cc0000; }
+.bg-yellow { background-color: #ffff00; }
+.bg-black  { background-color: #000000; }
+.bg-green  { background-color: #00b050; }
+
+
+.yellow{
+    background-color: yellow;
+}
+
+.red{
+    background-color: red;
+}
